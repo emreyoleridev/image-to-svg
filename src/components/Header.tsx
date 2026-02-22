@@ -17,7 +17,7 @@ export function Header() {
         </div>
         <div className="flex flex-1 items-center justify-end space-x-2">
           <nav className="flex items-center space-x-1">
-            <Link href="https://github.com/emreyoleri" target="_blank" rel="noreferrer">
+            <Link href="https://github.com/emreyoleridev/image-to-svg" target="_blank" rel="noreferrer">
               <div
                 className="flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground h-9 w-9 text-muted-foreground hover:text-foreground"
               >
